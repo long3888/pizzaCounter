@@ -1,0 +1,7 @@
+.venv
+*.mp4
+*.avi
+*.mkv
+*.mov
+*.wmv
+dataset
