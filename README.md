@@ -21,7 +21,7 @@ To improve, with good conditions, I'd try fine-tuning params or run larger pretr
 ## Installation
 
 ```bash
-git clone https://github.com/long3888/pizzaCounter.git
+git clone
 pip install requirements.txt
 ```
 
